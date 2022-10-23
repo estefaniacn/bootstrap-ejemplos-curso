@@ -10,8 +10,7 @@ Los ejemplos incluyen:
 
 * [Grid de Bootstrap](2%20-%20grid-varias-filas-ejemplo.html)
 
-![Grid de Bootstrap](imagenes/grid-responsiva.png)
-
+![Grid de Bootstrap](imagenes/grid.png)
 
 * [Breakpoints o puntos de quiebre](3%20-%20grid-breakpoints-especificos.html)
 
